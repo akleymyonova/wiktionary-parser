@@ -1,0 +1,15 @@
+{
+  "name": "wiktionary-parser",
+  "version": "1.0.0",
+  "description": "parser for wiktionary html",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anastasia Kleimonova <ya.antresol@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "jsdom": "^16.4.0"
+  }
+}
